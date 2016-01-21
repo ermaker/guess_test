@@ -1,5 +1,3 @@
-import guess
-
 import unittest
 
 class ExampleTest(unittest.TestCase):
