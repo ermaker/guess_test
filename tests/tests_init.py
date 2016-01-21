@@ -1,5 +1,5 @@
 import unittest
 
-class ExampleTest(unittest.TestCase):
+class InitTest(unittest.TestCase):
   def test_init(self):
     import guess
